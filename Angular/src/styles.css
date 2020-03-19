@@ -1,11 +1,11 @@
 body {
-    background-color: #ffc107;
+    background-color: #04c582;
     ;
 }
 
 input.form-control,
 input.form-control:focus {
-    background-color: #ffc107;
+    background-color: #636b7b;
     color: black;
     border-color: black;
     border-radius: 0px;
