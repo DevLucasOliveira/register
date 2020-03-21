@@ -4,7 +4,7 @@ The user registers on the platform, a form validation is performed with custom p
 If the user is not registered, he is inserted in the SQL Server DB using the identity core.
 
   
-![registergit](https://user-images.githubusercontent.com/47563193/77198426-b4a47600-6ac5-11ea-954e-8dbf2e0df763.png)
+![sucesso](https://user-images.githubusercontent.com/47563193/77234028-31992380-6b8a-11ea-9095-8b0df4dd58dd.png)
 
   
 ### SQL Server DB:
@@ -16,4 +16,4 @@ If the user is not registered, he is inserted in the SQL Server DB using the ide
 If the User is already registered, a notification is issued.
 
   
-![registerfailedgit](https://user-images.githubusercontent.com/47563193/77198436-b837fd00-6ac5-11ea-83fd-422774577234.png)  
+![registrar](https://user-images.githubusercontent.com/47563193/77234029-34941400-6b8a-11ea-9d37-527c0e5a437b.png)
